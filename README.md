@@ -12,6 +12,7 @@ output:
 ---
 This is the R script to reproduce analyses and figures of the paper:
 
-**Chefaoui (2021)** Seasonal variations of waterbird ecological networks under different saltpans management. *Ecological Informatics*.
+**Chefaoui, R.M** Seasonal variations of waterbird ecological networks under different saltpans management (2021) *Ecological Informatics*. https://doi.org/10.1016/j.ecoinf.2021.101364
 
-The paper can be found in this link.
+
+
